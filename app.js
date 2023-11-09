@@ -1,6 +1,7 @@
-document.getElementById('')
-if (a>b) {
-    if (c>d) {
-        
+if ( x > a ) {
+    if ( b > a ) {
+        if ( c > a ) {
+            alert('works!!!');
+        }
     }
 }
